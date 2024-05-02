@@ -1,16 +1,5 @@
 /*
-I certify, that this computer program submitted by me is all of my own work.
-Signed: Dylan Theis 4/20/2024
-
-Author: Dylan Theis
-Date: Spring 2024
-Class: CSC222
-Project: Assignment 6 - Pet Database
-Description: Adding and removing pets from database
-
-***NOTE: I got the program to work, with one error that I'm aware of that I am unsure of how to fix.
-         When adding a pet say "Finn " excluding the age factor it automatically assigns the age zero
-         and adds it to the database. I also went over the code line limit of 200.
+Adding and removing pets from database while catching exceptions
 */
 
 import java.io.File;
